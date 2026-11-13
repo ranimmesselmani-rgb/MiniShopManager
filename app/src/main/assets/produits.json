@@ -1,0 +1,10 @@
+{
+  "produits": [
+    {"id": 1, "nom": "Téléphone", "prix": 899.0, "categorie": "Électronique", "description": "Smartphone 128 Go", "icone": "📱", "image": "phone"},
+    {"id": 2, "nom": "Casque Bluetooth", "prix": 120.0, "categorie": "Électronique", "description": "Réduction de bruit", "icone": "🎧", "image": "headphones"},
+    {"id": 3, "nom": "Montre connectée", "prix": 250.0, "categorie": "Accessoires", "description": "Suivi sport et santé", "icone": "⌚", "image": "watch"},
+    {"id": 4, "nom": "Chargeur USB", "prix": 35.0, "categorie": "Accessoires", "description": "Charge rapide 30W", "icone": "🔌", "image": "charger"},
+    {"id": 5, "nom": "Parfum", "prix": 180.0, "categorie": "Cosmétiques", "description": "Eau de parfum 100 ml", "icone": "🧴", "image": "cosmetics"},
+    {"id": 6, "nom": "Crème hydratante", "prix": 45.0, "categorie": "Cosmétiques", "description": "Peaux sensibles", "icone": "💆", "image": "cosmetics"}
+  ]
+}
